@@ -68,6 +68,10 @@ The empirical evaluation of TrustShield involved extensive testing on various da
 The analysis of the results from the empirical evaluation revealed that TrustShield effectively mitigates the risks posed by malicious participants in FL. The study showed that even with a substantial proportion of adversarial nodes, the models protected by TrustShield maintained high accuracy and robustness. These findings underscore the efficacy of integrating blockchain validators and Zero-Knowledge Proofs in enhancing the security and reliability of FL systems.
 
 In a comparative study, TrustShield's performance was benchmarked against traditional FL systems under similar conditions. This comparison highlighted TrustShield's superior ability to withstand adversarial attacks, showcasing its resilience in maintaining model accuracy and integrity. The study provided compelling evidence of the advantages of incorporating blockchain technology and cryptographic techniques in FL, setting a new standard for secure federated learning.
+
+
+<img src="results.gif" width="800">
+
 ## Unveiling the Toolbox
 Accompanying the research paper is an open-source toolbox designed to facilitate the implementation and analysis of TrustShield in various FL environments. This toolbox serves as a valuable resource for researchers and practitioners, offering a suite of tools and algorithms for deploying TrustShield, conducting experiments, and analyzing the results. The availability of this toolbox marks a significant contribution to the FL community, enabling further exploration and development in the field.
 
